@@ -26,6 +26,11 @@ export default function Lab1() {
             Kambaz Application
           </Link>
         </li>
+        <li>
+          <Link href="https://github.com/weihang-z/CS610-Kambaz-A1" id="github">
+            GitHub Code Repository
+          </Link>
+        </li>
       </ul>
     </div>
   );
