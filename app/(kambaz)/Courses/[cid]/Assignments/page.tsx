@@ -22,7 +22,7 @@ export default function Assignments({ params }: { params: { cid: string } }) {
           </Link>
           <br />
           <small>
-            Multiple Modules | <b>Not available until</b> May 6 at 12:00am |{" "}
+            Multiple Modules | <b>Not available until</b> May 6 at 12:00am |
             <b>Due</b> May 13 at 11:59pm | 100 pts
           </small>
         </li>
@@ -35,7 +35,7 @@ export default function Assignments({ params }: { params: { cid: string } }) {
           </Link>
           <br />
           <small>
-            Multiple Modules | <b>Not available until</b> May 13 at 12:00am |{" "}
+            Multiple Modules | <b>Not available until</b> May 13 at 12:00am |
             <b>Due</b> May 20 at 11:59pm | 100 pts
           </small>
         </li>
@@ -48,7 +48,7 @@ export default function Assignments({ params }: { params: { cid: string } }) {
           </Link>
           <br />
           <small>
-            Multiple Modules | <b>Not available until</b> May 20 at 12:00am |{" "}
+            Multiple Modules | <b>Not available until</b> May 20 at 12:00am |
             <b>Due</b> May 27 at 11:59pm | 100 pts
           </small>
         </li>
