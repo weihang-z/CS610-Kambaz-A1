@@ -20,7 +20,12 @@ export default function KambazNavigation() {
         href="https://www.northeastern.edu/"
         id="wd-neu-link"
       >
-        <Image src="/images/NEU.svg" width={75} height={75} alt="Northeastern University" />
+        <Image
+          src="/images/NEU.svg"
+          width={75}
+          height={75}
+          alt="Northeastern University"
+        />
       </ListGroupItem>
       <ListGroupItem className="border-0 bg-black text-center">
         <Link
@@ -79,7 +84,7 @@ export default function KambazNavigation() {
       </ListGroupItem>
       <ListGroupItem className="border-0 bg-white text-center">
         <Link
-          href="/Labs"
+          href="/Labs/Lab1"
           id="wd-labs-link"
           className="text-danger text-decoration-none"
         >
