@@ -8,8 +8,8 @@ export const Float = () => {
         <div>
           <Image
             className="wd-float-right"
-            src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg"
-            alt="Starship"
+            src="/images/stacked.jpg"
+            alt="Stacked"
             width={400}
             height={300}
           />
@@ -29,8 +29,8 @@ export const Float = () => {
           mollit anim id est laborum.
           <Image
             className="wd-float-left"
-            src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg"
-            alt="Starship"
+            src="/images/stacked.jpg"
+            alt="Stacked"
             width={400}
             height={300}
           />
@@ -50,8 +50,8 @@ export const Float = () => {
           mollit anim id est laborum.
           <Image
             className="wd-float-right"
-            src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg"
-            alt="Starship"
+            src="/images/stacked.jpg"
+            alt="Stacked"
             width={400}
             height={300}
           />
@@ -71,8 +71,8 @@ export const Float = () => {
           mollit anim id est laborum.
           <Image
             className="wd-float-left"
-            src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg"
-            alt="Starship"
+            src="/images/stacked.jpg"
+            alt="Stacked"
             width={400}
             height={300}
           />
@@ -107,8 +107,8 @@ export const Float = () => {
           </div>
           <Image
             className="wd-float-right"
-            src="https://www.staradvertiser.com/wp-content/uploads/2021/08/web1_Starship-gap2.jpg"
-            alt="Starship"
+            src="/images/stacked.jpg"
+            alt="Stacked"
             width={400}
             height={300}
           />
