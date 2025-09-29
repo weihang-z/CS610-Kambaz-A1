@@ -11,7 +11,7 @@ export const Float = () => {
             src="/images/stacked.jpg"
             alt="Stacked"
             width={400}
-            height={300}
+            height={380}
           />
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -32,7 +32,7 @@ export const Float = () => {
             src="/images/stacked.jpg"
             alt="Stacked"
             width={400}
-            height={300}
+            height={380}
           />
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -53,7 +53,7 @@ export const Float = () => {
             src="/images/stacked.jpg"
             alt="Stacked"
             width={400}
-            height={300}
+            height={380}
           />
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -74,7 +74,7 @@ export const Float = () => {
             src="/images/stacked.jpg"
             alt="Stacked"
             width={400}
-            height={300}
+            height={380}
           />
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -110,7 +110,7 @@ export const Float = () => {
             src="/images/stacked.jpg"
             alt="Stacked"
             width={400}
-            height={300}
+            height={380}
           />
           <div className="wd-float-done"></div>
         </div>
